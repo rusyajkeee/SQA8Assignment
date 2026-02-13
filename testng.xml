@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Tricentis Demo Web Shop - Full Test Suite" verbose="1">
+  <test name="Smoke Tests">
+    <classes>
+      <class name="tests.SmokeTests"/>
+    </classes>
+  </test>
+  <test name="Regression Tests">
+    <classes>
+      <class name="tests.RegressionTests"/>
+    </classes>
+  </test>
+  <test name="Negative Tests">
+    <classes>
+      <class name="tests.NegativeTests"/>
+    </classes>
+  </test>
+</suite>
