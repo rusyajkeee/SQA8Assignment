@@ -1,6 +1,6 @@
 # Bug Report – Tricentis Demo Web Shop
 
-**Website:** https://demowebshop.tricentis.com
+Website: https://demowebshop.tricentis.com
 
 ## No Bugs Found
 

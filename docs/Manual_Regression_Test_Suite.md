@@ -1,8 +1,8 @@
 # Regression Test Suite - Tricentis Demo Web Shop
 
-**Website:** https://demowebshop.tricentis.com  
-**Purpose:** Core + risk-based coverage (25–40 test cases)  
-**Coverage:** Positive, negative, boundary, cross-browser, responsive
+Website: https://demowebshop.tricentis.com  
+Purpose: Core + risk-based coverage (25–40 test cases)  
+Coverage: Positive, negative, boundary, cross-browser, responsive
 
 ---
 
@@ -78,11 +78,11 @@
 
 ## Summary
 
-| Category      | Count  |
-| ------------- | ------ |
-| Positive      | 12     |
-| Negative      | 9      |
-| Boundary      | 5      |
-| Cross-Browser | 4      |
-| Responsive    | 5      |
-| **Total**     | **35** |
+| Category      | Count |
+| ------------- | ----- |
+| Positive      | 12    |
+| Negative      | 9     |
+| Boundary      | 5     |
+| Cross-Browser | 4     |
+| Responsive    | 5     |
+| Total         | 35    |

@@ -1,7 +1,7 @@
 # Smoke Test Suite - Tricentis Demo Web Shop
 
-**Website:** https://demowebshop.tricentis.com  
-**Purpose:** Quick health check (10–20 checks) to verify core functionality
+Website: https://demowebshop.tricentis.com  
+Purpose: Quick health check (10–20 checks) to verify core functionality
 
 ---
 
