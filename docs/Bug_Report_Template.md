@@ -1,8 +1,6 @@
 # Bug Report – Tricentis Demo Web Shop
 
-**Website:** https://demowebshop.tricentis.com  
-**Date:** [Insert Date]  
-**Tester:** [Insert Name]
+**Website:** https://demowebshop.tricentis.com
 
 ---
 
@@ -19,17 +17,17 @@ During smoke, regression, and automated testing of the Tricentis Demo Web Shop, 
 
 ### Bug #1
 
-| Field | Value |
-|-------|-------|
-| **Title** | [Short descriptive title] |
-| **Severity** | Critical / Major / Minor |
-| **Priority** | High / Medium / Low |
-| **Environment** | Browser, OS, viewport |
-| **URL** | [Page where bug occurs] |
-| **Steps to Reproduce** | 1. … 2. … 3. … |
-| **Expected Result** | [What should happen] |
-| **Actual Result** | [What actually happens] |
-| **Screenshot/Evidence** | [If available] |
+| Field                   | Value                     |
+| ----------------------- | ------------------------- |
+| **Title**               | [Short descriptive title] |
+| **Severity**            | Critical / Major / Minor  |
+| **Priority**            | High / Medium / Low       |
+| **Environment**         | Browser, OS, viewport     |
+| **URL**                 | [Page where bug occurs]   |
+| **Steps to Reproduce**  | 1. … 2. … 3. …            |
+| **Expected Result**     | [What should happen]      |
+| **Actual Result**       | [What actually happens]   |
+| **Screenshot/Evidence** | [If available]            |
 
 ---
 
